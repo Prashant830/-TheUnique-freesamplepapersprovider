@@ -96,8 +96,8 @@ public class  home extends AppCompatActivity {
           case R.id.share_button:
               Intent sharingIntent = new Intent(Intent.ACTION_SEND);
               sharingIntent.setType("text/plain");
-              String shareBody="https://www.famousappbox.online/";
-              String shareSubject="Download this useful application it hare:-";
+              String shareBody="https://github.com/Prashant830/-TheUnique-freesamplepapersprovider.git";
+              String shareSubject="Clone this useful application it hare:-";
 
               sharingIntent.putExtra(Intent.EXTRA_TEXT,shareBody);
               sharingIntent.putExtra(Intent.EXTRA_SUBJECT,shareSubject);
