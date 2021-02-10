@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 public class About extends AppCompatActivity {
     TextView textView;
-      String  urls = "https://github.com/Prashant830/TheUnique-freesamplepapersprovider.git";
+      String  urls = "https://github.com/Prashant830/-TheUnique-freesamplepapersprovider.git";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -18,6 +18,7 @@ public class About extends AppCompatActivity {
         setContentView(R.layout.activity_about);
         textView=findViewById(R.id.textView8);
         getSupportActionBar().setTitle("About us");
+
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
