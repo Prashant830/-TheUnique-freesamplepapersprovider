@@ -26,7 +26,3 @@ We love Pull Requests, Bug Reports, ideas, code reviews or any other kind of pos
 ### Commit Style Guide
 
 We have set of [Commit Style Guidelines](https://github.com/openMF/mifos-mobile-cn/blob/master/COMMIT_STYLE.md) and [Contribution Guidelines](https://github.com/openMF/mifos-mobile-cn/blob/master/CONTRIBUTING.md). We follow these guideline to track the every change, any bug fixes, any enhancement and any new feature addition. We also suggest you to follow these guidelines to help us manage every commit.
-
-
-# -TheUnique-freesamplepapersprovider
-
