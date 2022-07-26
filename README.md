@@ -1,4 +1,4 @@
-## TheUnique-freesamplepapersprovider
+## TheUnique - free sample papers provider
 It is a multiple activity application. In
 this application I make multiple beautiful and attracting UI( User Interface ). 
 
